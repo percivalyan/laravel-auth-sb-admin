@@ -33,7 +33,7 @@
 git clone https://github.com/percivalyan/laravel-auth-sb-admin.git
 ```
 ```bash
-cd laravel-simple-multi-role-auth
+cd laravel-auth-sb-admin
 ```
 
 ### Install PHP dependencies
